@@ -1,4 +1,4 @@
-package com.techdialogue.tempreporter;
+package com.techdialogue.temp_reporter;
 
 import java.util.Random;
 
