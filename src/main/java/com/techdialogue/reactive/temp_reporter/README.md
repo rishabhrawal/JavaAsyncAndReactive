@@ -1,1 +1,1 @@
-This sample implements Java Flow api
+Custom implementation of Java Flow API
