@@ -3,4 +3,4 @@ Understanding
 Functional, Asynchronous and Reactive
 programming with Java
 
-Data flow computing, serveless computing
+Reactive ==> Data flow computing, Serverless computing
