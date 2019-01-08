@@ -1,4 +1,4 @@
-package com.techdialogue.temp_reporter;
+package com.techdialogue.reactive.temp_reporter;
 
 import java.util.concurrent.Flow;
 

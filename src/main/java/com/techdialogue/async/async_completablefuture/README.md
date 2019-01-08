@@ -1,0 +1,2 @@
+CompletableFuture implements Future and CompletionStage
+CompletionStage allows complex composition of functions
