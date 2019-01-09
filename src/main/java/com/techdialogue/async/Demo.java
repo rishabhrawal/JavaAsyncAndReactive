@@ -1,4 +1,4 @@
-package com.techdialogue.async.async_completablefuture;
+package com.techdialogue.async;
 
 public class Demo {
 
