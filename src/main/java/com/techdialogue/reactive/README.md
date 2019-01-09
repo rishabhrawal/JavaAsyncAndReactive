@@ -25,6 +25,16 @@ Reactive ==> (Data flow computing, composition of events, Serverless computing)
 <br/>Recovery from error onError resumeNext ??
 
 Java 9 Flow API
-1. RxJava
+1. Publisher ==> subscribe
+2. Subscriber ==> onNext, onError, onComplete, onSubscribe 
+3. Subscription ==> request, cancel
+4. Processor
+
+Implementations:
+1. RxJava (Observable, Flow <backpressure>)
 2. Akka
 3. Spring Reactor
+
+Reactive Streams are lazy, don't start unless subscribe is called.
+
+Error Handling:
