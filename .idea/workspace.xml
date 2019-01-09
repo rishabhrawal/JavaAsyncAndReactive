@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d946397-0ef3-4a58-92de-10eb41bd22b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/XFinance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techdialogue/async/async_completablefuture/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techdialogue/async/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techdialogue/async/async_completablefuture/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techdialogue/async/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techdialogue/async/async_completablefuture/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techdialogue/async/test/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -121,7 +118,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="7" />
           <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -142,18 +139,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="102">
-                <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockInfo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -197,11 +182,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/Sample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+              <caret line="26" selection-start-line="26" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -212,11 +197,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/async/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/async/test/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -248,18 +251,6 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="252">
                 <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/async/async_completablefuture/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
               </first_editor>
               <second_editor />
             </state>
@@ -598,6 +589,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/Sample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/techdialogue/async/test/test.java" />
       </list>
     </option>
   </component>
@@ -722,17 +714,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="techdialogue" type="462c0819:PsiDirectoryNode" />
-              <item name="reactive" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaFAR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFAR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="techdialogue" type="462c0819:PsiDirectoryNode" />
-              <item name="reactive" type="462c0819:PsiDirectoryNode" />
-              <item name="stock_trader" type="462c0819:PsiDirectoryNode" />
+              <item name="async" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaFAR" type="b2602c69:ProjectViewProjectNode" />
@@ -749,7 +731,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547046163918" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547046239053" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -821,16 +803,15 @@
       <workItem from="1546944155976" duration="4626000" />
       <workItem from="1546961858038" duration="6930000" />
       <workItem from="1547037315427" duration="149000" />
-      <workItem from="1547037593572" duration="5648000" />
+      <workItem from="1547037593572" duration="5952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21098000" />
+    <option name="totallyTimeSpent" value="21402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-1088" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -842,13 +823,13 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48481563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48481563" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32901832" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.40331492" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.40238613" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3279743" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -921,7 +902,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/async/async_completablefuture/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/async/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
@@ -995,23 +976,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockServer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/Sample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        <state relative-caret-position="340">
+          <caret line="26" selection-start-line="26" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/Sample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/reactive/stock_trader/StockServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/async/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techdialogue/async/test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
